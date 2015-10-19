@@ -1,7 +1,7 @@
 {
-	"name": "laravel-plus/laravel5",
-	"description": "The Laravel Skeleton.",
-	"keywords": ["framework", "laravel"],
+	"name": "jumilla/laravel5-sample-todo",
+	"description": "Laravel 5.1 Sample code.",
+	"keywords": ["laravel", "todo"],
 	"type": "project",
 	"license": "MIT",
 	"require": {
